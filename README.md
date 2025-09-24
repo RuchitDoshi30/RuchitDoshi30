@@ -68,8 +68,9 @@
 | Project | Description | Tech Stack | GitHub |
 |--------|-------------|-----------|------|
 | Celestial Watches | Premium watch e-commerce site | PHP, MySQL, JS | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/Celestial-Watches?style=flat&logo=github)](https://github.com/RuchitDoshi30/Celestial-Watches) |
-| netCDF to parquet | Data pipeline and ingestion | Python | [![Stars](https://github.com/RuchitDoshi30/argo-netCDF-pipeline-conversion)](https://github.com/RuchitDoshi30) |
+| netCDF to parquet | Data pipeline and ingestion | Python | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/argo-netCDF-pipeline-conversion?style=flat&logo=github)](https://github.com/RuchitDoshi30/argo-netCDF-pipeline-conversion) |
 | FloatChat | AI-powered conversational interface for ocean data | Python, JS, Flask | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/float-chat?style=flat&logo=github)](https://github.com/RuchitDoshi30/float-chat) |
+
 
 ---
 
