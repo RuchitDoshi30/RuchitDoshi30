@@ -12,32 +12,24 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/ruchit-doshi-58a61a316" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ruchittttt_30" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/ruchit-doshi-58a61a316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ruchittttt_30" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
 </p>
 
 ---
 
 ## 💫 About Me
-👋 Hi, I’m **Ruchit**  
-✨ Computer Engineering Student | 💻 Web App Enthusiast | 🚀 Exploring AI, Data Science & Backend Systems  
-
-- 🎯 Always curious to learn & improve  
-- 💡 Passionate about building scalable and innovative solutions  
-- ☕ Fun Fact: I believe a cup of tea and coding can solve almost anything  
+👋 Hi, I’m **Ruchit** – a passionate Computer Engineering student exploring the world of AI, Data Science, and backend systems.  
+🌟 **Interests:** Building scalable web apps, experimenting with AI/ML, and automating real-world processes.  
+💡 **Fun Fact:** I believe a cup of tea and coding can solve almost anything.  
+🎯 **Goal:** To become a global AI & Backend systems engineer, building innovative products that impact millions.  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Skills
 
-### Languages & Frameworks
+### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -63,10 +55,10 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/plotly-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -79,15 +71,14 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|-----------|------|
-| Celestial Watches | Premium watch e-commerce website | PHP, MySQL, JS | [GitHub](https://github.com/RuchitDoshi30/Celestial-Watches) |
+| Celestial Watches | Premium watch e-commerce platform | PHP, MySQL, JS | [GitHub](https://github.com/RuchitDoshi30/Celestial-Watches) |
 | Saree Shopping Website | Virtual draping & body type recommender | HTML, CSS, JS, Python | [GitHub](https://github.com/RuchitDoshi30) |
 | Gym Progress Tracker | Track exercises & weight lifted | Python, Flask | [GitHub](https://github.com/RuchitDoshi30) |
 | FloatChat | AI-powered conversational interface for ocean data | Python, JS, Flask | [GitHub](https://github.com/RuchitDoshi30/float-chat) |
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RuchitDoshi30&theme=dark&show_icons=true&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitDoshi30" />
@@ -110,10 +101,23 @@
 
 ---
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ruchit-doshi-58a61a316)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ruchittttt_30)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/)
+
+---
+
 ## 📫 Contact Me
 - Email: [ruchit.coding@gmail.com](mailto:ruchit.coding@gmail.com)  
-- LinkedIn: [Ruchit Doshi](https://linkedin.com/in/ruchit-doshi-58a61a316)  
-- Instagram: [ruchittttt_30](https://instagram.com/ruchittttt_30)
+
+---
+
+## 🔮 Future Goals / Roadmap
+- Master **AI & ML** for production-ready applications.  
+- Build **scalable backend systems** handling millions of users.  
+- Launch at least **2 global open-source projects** by next year.  
+- Contribute to **Data Science & AI research** repositories.  
 
 ---
 
