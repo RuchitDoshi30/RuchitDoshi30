@@ -1,33 +1,29 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCVU96WgN2bYElK/giphy.gif" alt="Coding GIF" width="600"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ruchit Nikhilbhai Doshi</h1>
 <h3 align="center">Exploring AI, Data Science & Scalable Backend Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchitdoshi30&label=Profile%20views&color=0e75b6&style=flat" alt="ruchitdoshi30" />
+  <img src="https://komarev.com/ghpvc/?username=ruchitdoshi30&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruchitdoshi30" alt="ruchitdoshi30" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/ruchit-doshi-58a61a316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/ruchittttt_30" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchitdoshi30" alt="Trophies" /></a>
 </p>
 
 ---
 
 ## 💫 About Me
-👋 Hi, I’m **Ruchit** – a passionate Computer Engineering student exploring the world of AI, Data Science, and backend systems.  
-🌟 **Interests:** Building scalable web apps, experimenting with AI/ML, and automating real-world processes.  
-💡 **Fun Fact:** I believe a cup of tea and coding can solve almost anything.  
-🎯 **Goal:** To become a global AI & Backend systems engineer, building innovative products that impact millions.  
+👋 Hi, I’m **Ruchit** – a passionate Computer Engineering student exploring AI, Data Science, and backend systems.  
+🌟 **Interests:** Scalable web apps, AI/ML experimentation, data pipelines.  
+🎯 **Goal:** Build global AI-powered solutions and backend systems handling millions of users.  
+☕ **Fun Fact:** A cup of tea + coding = problem solved!  
 
 ---
 
-## 🛠 My Skills
+## 🛠 Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -67,22 +63,34 @@
 
 ---
 
+## 🚀 Currently Learning
+![Python](https://img.shields.io/badge/Python-Pandas%20NumPy-blue?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Queries%20%26%20Optimization-orange?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/ML-Scikit_Learn%20%26%20PyTorch-red?style=for-the-badge)
+
+---
+
 ## 📂 Projects
 
-| Project | Description | Tech Stack | Link |
+| Project | Description | Tech Stack | GitHub |
 |--------|-------------|-----------|------|
-| Celestial Watches | Premium watch e-commerce platform | PHP, MySQL, JS | [GitHub](https://github.com/RuchitDoshi30/Celestial-Watches) |
-| Saree Shopping Website | Virtual draping & body type recommender | HTML, CSS, JS, Python | [GitHub](https://github.com/RuchitDoshi30) |
-| Gym Progress Tracker | Track exercises & weight lifted | Python, Flask | [GitHub](https://github.com/RuchitDoshi30) |
-| FloatChat | AI-powered conversational interface for ocean data | Python, JS, Flask | [GitHub](https://github.com/RuchitDoshi30/float-chat) |
+| Celestial Watches | Premium watch e-commerce site | PHP, MySQL, JS | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/Celestial-Watches?style=flat&logo=github)](https://github.com/RuchitDoshi30/Celestial-Watches) |
+| Saree Shopping Website | Virtual draping & body type recommender | HTML, CSS, JS, Python | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/Saree-Shopping?style=flat&logo=github)](https://github.com/RuchitDoshi30) |
+| Gym Progress Tracker | Track exercises & weight lifted | Python, Flask | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/Gym-Tracker?style=flat&logo=github)](https://github.com/RuchitDoshi30) |
+| FloatChat | AI-powered conversational interface for ocean data | Python, JS, Flask | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/float-chat?style=flat&logo=github)](https://github.com/RuchitDoshi30/float-chat) |
 
 ---
 
 ## 📊 GitHub Stats & Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuchitDoshi30&theme=dark&show_icons=true&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitDoshi30" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchitDoshi30&langs_count=10&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RuchitDoshi30&theme=radical&show_icons=true&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchitDoshi30&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchitDoshi30&langs_count=10&theme=radical&layout=compact" />
+</p>
+
+### 📈 Contribution Heatmap
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=RuchitDoshi30&limit=12&theme=dark" />
 </p>
 
 ---
@@ -96,7 +104,7 @@
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -109,15 +117,15 @@
 ---
 
 ## 📫 Contact Me
-- Email: [ruchit.coding@gmail.com](mailto:ruchit.coding@gmail.com)  
+- Email: [ruchit.coding@gmail.com](mailto:ruchit.coding@gmail.com)
 
 ---
 
 ## 🔮 Future Goals / Roadmap
-- Master **AI & ML** for production-ready applications.  
-- Build **scalable backend systems** handling millions of users.  
-- Launch at least **2 global open-source projects** by next year.  
-- Contribute to **Data Science & AI research** repositories.  
+- Master **AI & ML for production applications**  
+- Build **scalable backend systems** handling millions of users  
+- Launch **2+ global open-source projects**  
+- Contribute to **Data Science & AI research repositories**
 
 ---
 
