@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCVU96WgN2bYElK/giphy.gif" alt="Coding GIF" width="600"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ruchit Nikhilbhai Doshi</h1>
 <h3 align="center">Exploring AI, Data Science & Scalable Backend Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruchitdoshi30&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchitdoshi30" alt="Trophies" /></a>
 </p>
 
 ---
@@ -28,8 +36,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Backend & Databases
+![Node.js](https://img.shields.io/badge/node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -64,8 +75,7 @@
 | Project | Description | Tech Stack | GitHub |
 |--------|-------------|-----------|------|
 | Celestial Watches | Premium watch e-commerce site | PHP, MySQL, JS | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/Celestial-Watches?style=flat&logo=github)](https://github.com/RuchitDoshi30/Celestial-Watches) |
-| Saree Shopping Website | Virtual draping & body type recommender | HTML, CSS, JS, Python | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/Saree-Shopping?style=flat&logo=github)](https://github.com/RuchitDoshi30) |
-| Gym Progress Tracker | Track exercises & weight lifted | Python, Flask | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/Gym-Tracker?style=flat&logo=github)](https://github.com/RuchitDoshi30) |
+| netCDF to parquet | Data pipeline and ingestion | Python | [![Stars](https://github.com/RuchitDoshi30/argo-netCDF-pipeline-conversion)](https://github.com/RuchitDoshi30) |
 | FloatChat | AI-powered conversational interface for ocean data | Python, JS, Flask | [![Stars](https://img.shields.io/github/stars/RuchitDoshi30/float-chat?style=flat&logo=github)](https://github.com/RuchitDoshi30/float-chat) |
 
 ---
@@ -101,7 +111,6 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ruchit-doshi-58a61a316)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ruchittttt_30)
-[![Leetcode](https://leetcode.com/u/Ruchit_Doshi/)](https://leetcode.com/)
 
 ---
 
