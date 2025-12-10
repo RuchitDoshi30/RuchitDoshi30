@@ -12,54 +12,57 @@
 ---
 
 ## 💫 About Me
-👋 Hi, I’m **Ruchit** – a passionate Computer Engineering student exploring AI, Data Science, and backend systems.  
-🌟 **Interests:** Scalable web apps, AI/ML experimentation, data pipelines.  
-🎯 **Goal:** Build global AI-powered solutions and backend systems handling millions of users.  
-☕ **Fun Fact:** A cup of tea + coding = problem solved!  
+🔹 Aspiring FinTech Data Engineer — focused on data pipelines, analytics, and cloud-based processing.  
+🔹 Interested in payment systems, fraud detection, credit risk scoring, and financial data platforms.  
+🔹 Currently building projects around data engineering workflows (ETL/ELT, API ingestion, dashboards).  
+🔹 Goal: Build scalable data systems powering real-time financial decisions and risk analytics.  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Programming & Scripting
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Data Engineering & Analytics
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Cloud, Pipelines & Storage
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
 ### Backend & Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Data Science & AI
-![NumPy](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/plotly-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![API](https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge&logo=web&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Currently Learning
-![Python](https://img.shields.io/badge/Python-Pandas%20NumPy-blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Queries%20%26%20Optimization-orange?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/ML-Scikit_Learn%20%26%20PyTorch-red?style=for-the-badge)
+- PySpark (Performance, Joins, Window Functions)
+- Kafka (Streams, Topics, Producers/Consumers)
+- SQL Optimization (Indexing, Window Functions, Explain Plans)
+- AWS Glue + Athena (Serverless ETL)
+- Power BI for FinTech Analytics (KPIs: Success %, Fraud %, NPA %, LTV/CAC)
 
 ---
 
@@ -114,10 +117,11 @@
 ---
 
 ## 🔮 Future Goals / Roadmap
-- Master **AI & ML for production applications**  
-- Build **scalable backend systems** handling millions of users  
-- Launch **2+ global open-source projects**  
-- Contribute to **Data Science & AI research repositories**
+- Build end-to-end FinTech data pipelines (batch + real-time)
+- Design fraud detection & risk scoring data workflows
+- Master AWS stack for scalable financial systems
+- Deploy production-grade dashboards for payments and lending insights
+- Contribute to finance and data engineering-focused open-source tools
 
 ---
 
@@ -125,4 +129,4 @@
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=RuchitDoshi30&icon=0&color=0" /></a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
