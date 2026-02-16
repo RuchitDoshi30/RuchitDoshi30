@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruchit Nikhilbhai Doshi</h1>
-<h3 align="center">Aspiring Data Analyst (SQL + Python) | FinTech & Analytics Projects</h3>
+<h3 align="center">Data Analyst (SQL, Python, Analytics) | Aspiring Fintech Data Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruchitdoshi30&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
